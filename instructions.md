@@ -91,14 +91,14 @@ At the very top of `index.md`, you'll see something like:
 
 ```yaml
 ---
-author: student name
+author: Zacharie-Frias
 title: "Your Title"
 layout: scrollstory
 header-image: images/han-coin-two-sides-mahogany.png
 thumbnail: images/han-coin-mahogany.png
 summary: The image is of the Han coin, not the monastery relic.
 geo: [31.777, 35.224]
-placename: Jerusalem
+placename: Scandinavia
 tags:
   - object
 ---
