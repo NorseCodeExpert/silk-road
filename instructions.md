@@ -92,7 +92,7 @@ At the very top of `index.md`, you'll see something like:
 ```yaml
 ---
 author: Zacharie-Frias
-title: "Your Title"
+title: "The Northern Silk Road"
 layout: scrollstory
 header-image: images/han-coin-two-sides-mahogany.png
 thumbnail: images/han-coin-mahogany.png
