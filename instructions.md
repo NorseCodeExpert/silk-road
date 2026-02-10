@@ -104,8 +104,8 @@ tags:
 ---
 ```
 
-1. Change the `author` to to your name. 
-2. Change the `title` to match your actual project.
+1. Change the `Zacharie-Frias` to to your name. 
+2. Change the 'The Northern Silk Road` to match your actual project.
 3. Do not change the `layout`.
 4. Once you have images, you can change `header-image` and `thumbnail`.
 5. For `summary` write a short sentence that will appear in the little card for the file.
