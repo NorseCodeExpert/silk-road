@@ -4,7 +4,7 @@ title: "Terra Cotta Warriors"
 layout: base
 header-image: images/ota-gate-khiva2.jpg
 thumbnail: images/terra-cotta-thumbnail-5.jpg
-summary: The Terracotta Warriors are a vast army of life-size clay soldiers buried over 2,000 years ago to stand guard near the tomb of China’s first emperor, Qin Shi Huang, in the afterlife
+summary: The Terracotta Warriors are a vast army of life-size clay soldiers buried over 2,000 years ago to stand guard near the tomb of China’s first emperor, Qin Shi Huang, in the afterlife.
 ---
 
 # Example Thematic Essay 2
