@@ -7,7 +7,7 @@ thumbnail: images/ota-gate-demo-gray.png
 summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
 ---
 
-# Example Thematic Essay
+# Example Thematic Essay 2
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page. In the Amaranth documentation for website building, this type of essay is called a **Seedling.**
 
