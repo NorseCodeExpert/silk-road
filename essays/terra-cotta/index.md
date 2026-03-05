@@ -1,5 +1,5 @@
 ---
-author: student name
+author: Zacharie Frias
 title: "The Terracotta Warriors"
 layout: base
 header-image: images/ota-gate-khiva2.jpg
