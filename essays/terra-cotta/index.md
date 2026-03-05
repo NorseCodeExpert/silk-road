@@ -1,6 +1,6 @@
 ---
 author: student name
-title: "Terra-Cotta-Warriors"
+title: "Terra Cotta Warriors"
 layout: base
 header-image: images/ota-gate-khiva2.jpg
 thumbnail: images/terra-cotta-thumbnail-5.jpg
