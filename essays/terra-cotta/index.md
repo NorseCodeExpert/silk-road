@@ -18,7 +18,7 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. side-by-side-with-terracotta-1.jpg
+caption="Here is an image with the author pictured side by side with a terracotta soldier replica to show their lifesize dimesnsions. side-by-side-with-terracotta-1.jpg
 image-path="images/ota-gate-khiva.jpg"
 %}
 
