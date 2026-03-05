@@ -4,7 +4,7 @@ title: "The Terracotta Warriors"
 layout: base
 header-image: images/ota-gate-khiva2.jpg
 thumbnail: images/terra-cotta-thumbnail-5.jpg
-summary: The Terracotta Warriors are a vast army of life-size clay soldiers buried over 2,000 plus years ago to stand guard near the tomb of China’s first emperor, Qin Shi Huang, in the afterlife.
+summary: The Terracotta Warriors is a vast army of life-size clay soldiers buried over 2,000 plus years ago to stand guard near the tomb of China’s first emperor, Qin Shi Huang, in the afterlife. 
 ---
 
 # Example Thematic Essay 2
@@ -22,7 +22,7 @@ caption="
 image-path="side-by-side-with-terracotta-1".jpg
 /terra-cotta/images/side-by-side-with-terracotta-1.jpg
 
-Here is an image with the author pictured side by side with a terracotta soldier replica to show their lifesize comparison.
+Here is an image with the author pictured side by side with a terracotta soldier replica to show their lifesize comparison. 
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
 
