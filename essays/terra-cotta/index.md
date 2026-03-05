@@ -18,8 +18,8 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Here is an image with the author pictured side by side with a terracotta soldier replica to show their lifesize dimesnsions. side-by-side-with-terracotta-1.jpg
-image-path="images/ota-gate-khiva.jpg"
+caption="Here is an image with the author pictured side by side with a terracotta soldier replica to show their lifesize dimesnsions." 
+image-path="side-by-side-with-terracotta-1".jpg
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
