@@ -3,7 +3,7 @@ author: student name
 title: "Camels on the Silk Road Trade Network"
 layout: base
 header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-gray.png
+thumbnail: images/terra-cotta-thumbnail-5.jpg
 summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
 ---
 
