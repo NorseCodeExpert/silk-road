@@ -30,5 +30,5 @@ For a Silk Road project, the standing archer matters because the Terracotta Army
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+-	Martin, Lucía, et al. "Marking Practices and the Making of the Qin Terracotta Army." Journal of Anthropological Archaeology 43 (2016): 1–22.
+-	Nickel, Lukas. "Building the Terracotta Army." Antiquity 91.358 (2017): 966–79.
