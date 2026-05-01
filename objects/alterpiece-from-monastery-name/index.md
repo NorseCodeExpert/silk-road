@@ -31,5 +31,5 @@ In relation to the Silk Road, the chariot matters because it reflects the infras
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+-	Martin, Lucía, et al. JAA 43 (2016): 1–22
+-	Nickel, Lukas. Antiquity 91.358 (2017): 966–79.
