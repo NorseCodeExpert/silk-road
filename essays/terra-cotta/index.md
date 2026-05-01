@@ -35,7 +35,7 @@ The Terracotta Army reflects that system through its mass production, modular co
 The scale of the army also demonstrates the state’s ability to mobilize labor and enforce coordination. Thousands of figures arranged in precise formation are not just artistic achievements—they are evidence of administrative power. This same capacity for organization would later support infrastructure, communication, and territorial expansion.
 
 
-## “The Terracotta Army is not just a tomb—it is a blueprint of empire.”
+## “The Terracotta Army is not just a tomb—it is a blueprint of an empire.”
 
 The army also helps explain how military strength and state organization contributed to the later development of the Silk Road. The Qin dynasty, followed by the Han, secured western territories and created safer corridors for travel and exchange.
 
