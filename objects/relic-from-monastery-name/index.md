@@ -1,12 +1,12 @@
 ---
-author: student name
-title: "Relic from Monastery"
+author: Zacharie Frias
+title: "The Armored Officer"
 layout: base
-header-image: images/han-coin-two-sides-mahogany.png
-thumbnail: images/han-coin-mahogany.png
-summary: The image is of the Han coin, not the monastery relic.
-geo: [31.777, 35.224]
-placename: Jerusalem
+header-image: images/terra-cotta-thumbnail-5.jpg
+thumbnail: images/terracotta-officer.jpg
+summary: This image is of the Armored Officer found in Pit 2
+geo: [34.3416, 109.2744]
+placename: Xian
 tags:
   - object
 ---
