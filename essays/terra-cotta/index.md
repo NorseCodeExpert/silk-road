@@ -43,25 +43,25 @@ Once these routes were protected, silk could move westward while other goods, te
 
 The army therefore symbolizes not only imperial ambition, but also the practical conditions that allowed interregional exchange to emerge. It represents a state capable of enforcing order across vast distances, which was essential for sustaining trade networks over time. 
 
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content.  [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva.jpg" %}
+## An Army That Reflects a System
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+{% include images/figure.html
+class="left"
+width="48%"
+caption="Silk Road expansion: Courtesy of https://louis.pressbooks.pub/sandbox1/chapter/chapter-4-china-and-east-asia-to-the-ming-dynasty/?utm_source=chatgpt.com." 
+image-path="images/silk-road-map.jpg"
+%}
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
+In this project, the four objects—the standing archer, kneeling archer, chariot with four horses, and armored officer—each highlight a different aspect of this connection. The standing archer represents readiness and range, while the kneeling archer emphasizes precision and discipline. The chariot and horses demonstrate mobility and coordination, and the armored officer reflects leadership and command.
 
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+Together, these figures show how the Qin military combined mobility, precision, leadership, and structure into a unified system. They also demonstrate how the same state that built an army for the afterlife was capable of building the kind of political order that made Silk Road history possible
 
 
-## The Rhythm of an Essay on a Webpage
-By now you've scrolled through several sections and noticed the **rhythm** of a ScrollStory: heading, text, image, text, pull quote, text. This creates a visual cadence that keeps readers engaged without overwhelming them.
+## Conclusion: From Empire to Exchange
 
-**For your own essay:** Think about pacing. Where do readers need a visual break? Where should an image reinforce your argument? When does a pull quote emphasize a key point? These decisions make the difference between a wall of text and an engaging narrative.
+The Terracotta Army ultimately represents more than a burial practice or a display of imperial power. It embodies the political organization, military strength, and administrative precision that made long-distance exchange possible.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Aliquam in sapien mauris. Aliquam erat volutpat.
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida.
+Rather than viewing the Silk Road as a spontaneous or isolated development, it should be understood as the result of deliberate state-building. The same empire that constructed thousands of soldiers beneath the earth also created the conditions necessary for sustained connection across Eurasia. The Terracotta Army stands as enduring evidence of that foundation
 
 
 ## Block Quotes for Extended Quotations
