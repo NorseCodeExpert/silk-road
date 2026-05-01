@@ -33,6 +33,10 @@ For a Silk Road project, the standing archer is significant because it represent
 
 The standing archer, therefore, symbolizes more than a single soldier. It represents a system of discipline, production, and military organization that helped create the conditions for sustained interaction across Eurasia.
 
+## Footnotes
+
+- Lukas Nickel, “Building the Terracotta Army,” Antiquity 91, no. 358 (2017): 966–79.
+- Lucía Martín et al., “Marking Practices and the Making of the Qin Terracotta Army,” Journal of Anthropological Archaeology 43 (2016): 1–22
 
 ## Bibliography
 
