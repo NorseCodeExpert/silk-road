@@ -20,7 +20,7 @@ class="right"
 width="48%"
 caption="Author pictured side by side with a terracotta soldier replica to show their lifesize comparison. Emperor Qinshihuang's Mausoleum Site Museum. Xian, China. Source: Author Photo." 
 image-path="images/side-by-side-with-terracotta-1.jpg"
-%}[
+%}
 
 The Terracotta Army of Qin Shi Huang is more than a famous archaeological discovery; it is a powerful symbol of the political and military foundations that later made Silk Road exchange possible. Built around 210 BCE near modern Xi'an, the army was designed to guard the First Emperor in the afterlife, but it also reveals the structure of the Qin state itself.
 
@@ -35,15 +35,13 @@ The Terracotta Army reflects that system through its mass production, modular co
 The scale of the army also demonstrates the state’s ability to mobilize labor and enforce coordination. Thousands of figures arranged in precise formation are not just artistic achievements—they are evidence of administrative power. This same capacity for organization would later support infrastructure, communication, and territorial expansion.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## “The Terracotta Army is not just a tomb—it is a blueprint of empire.”
 
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+The army also helps explain how military strength and state organization contributed to the later development of the Silk Road. The Qin dynasty, followed by the Han, secured western territories and created safer corridors for travel and exchange.
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+Once these routes were protected, silk could move westward while other goods, technologies, and ideas moved in both directions. Long-distance trade required more than demand—it required stability, security, and governance. The same disciplined systems visible in the Terracotta Army made this possible.
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+The army therefore symbolizes not only imperial ambition, but also the practical conditions that allowed interregional exchange to emerge. It represents a state capable of enforcing order across vast distances, which was essential for sustaining trade networks over time. 
 
 ## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content.  [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
