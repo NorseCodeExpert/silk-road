@@ -47,7 +47,7 @@ The army therefore symbolizes not only imperial ambition, but also the practical
 
 {% include images/figure.html
 class="left"
-width="48%"
+width="50%"
 caption="Silk Road Expansion: Courtesy of https://louis.pressbooks.pub/sandbox1/chapter/chapter-4-china-and-east-asia-to-the-ming-dynasty." 
 image-path="images/silk-road-map.jpg"
 %}
