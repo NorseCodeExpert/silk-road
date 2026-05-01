@@ -1,12 +1,12 @@
 ---
-author: student name
-title: "Han Coin with Greek Inscription"
+author: Zacharie Frias
+title: "The Kneeling Archer"
 layout: base
-header-image: images/han-coin-two-sides-blushwood.png
-thumbnail: images/han-coin-blushwood.png
-summary: One or two sentences about the coin but this one is not from Bukhara.
-geo: [39.877, 64.408]
-placename: Bukhara
+header-image: images/kneeling-archer.jpg
+thumbnail: images/kneeling-archer.jpg
+summary: This image is of the Kneeling Archer found in Pit 1
+geo: [34.3416, 109.2744]
+placename: Xian
 tags:
   - object
 ---
