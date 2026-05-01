@@ -41,5 +41,6 @@ The armored officer, therefore, represents more than military rank. It embodies 
 
 ## Bibliography
 
--	Martin, Lucía, et al. JAA 43 (2016): 1–22
--	Nickel, Lukas. Antiquity 91.358 (2017): 966–79.
+Martin, Lucía, et al. “Marking Practices and the Making of the Qin Terracotta Army.” Journal of Anthropological Archaeology 43 (2016): 1–22.
+
+Nickel, Lukas. “Building the Terracotta Army.” Antiquity 91, no. 358 (2017): 966–79.
