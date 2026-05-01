@@ -7,16 +7,18 @@ thumbnail: images/terra-cotta-thumbnail-5.jpg
 summary: The Terracotta Army is a vast army of life-size clay soldiers buried over 2,000 plus years ago to stand guard near the tomb of China’s first emperor, Qin Shi Huang, in the afterlife. 
 ---
 
-# Thematic Essay
+# The Terracotta Army and the Foundations of Silk Road Exchange
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page. In the Amaranth documentation for website building, this type of essay is called a **Seedling.**
+The Terracotta Army of Qin Shi Huang is more than an archaeological marvel; it is a powerful symbol of the political and military systems that made Silk Road exchange possible. Constructed around 210 BCE near modern Xi'an, the army was intended to guard the emperor in the afterlife. Yet its deeper significance lies in what it reveals about the structure of the Qin state.
+
+The army’s disciplined formations—soldiers, horses, chariots, and officers—reflect a world defined by order, hierarchy, and control. These same qualities would later enable the movement of goods, people, and ideas across Eurasia.
 
 
-## Your First Section Heading
+## Introduction: Power Beneath the Earth
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Here is an image with the author pictured side by side with a terracotta soldier replica to show their lifesize comparison." 
+caption="Author pictured side by side with a terracotta soldier replica to show their lifesize comparison. Emperor Qinshihuang's Mausoleum Site Museum. Xian, China. Source: Author Photo." 
 image-path="images/side-by-side-with-terracotta-1.jpg"
 %}[
 
