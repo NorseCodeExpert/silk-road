@@ -1,6 +1,6 @@
 ---
 author: Zacharie Frias
-title: "Standing Archer"
+title: "The Standing Archer"
 layout: base
 header-image: images/standing-archer.jpg
 thumbnail: images/standing-archer.jpg
