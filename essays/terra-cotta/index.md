@@ -1,28 +1,25 @@
 ---
 author: Zacharie Frias
-title: "The Terracotta Warriors"
+title: "The Terracotta Army"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
+header-image: images/terra-cotta-thumbnail-5.jpg
 thumbnail: images/terra-cotta-thumbnail-5.jpg
-summary: The Terracotta Warriors is a vast army of life-size clay soldiers buried over 2,000 plus years ago to stand guard near the tomb of China’s first emperor, Qin Shi Huang, in the afterlife. 
+summary: The Terracotta Army is a vast army of life-size clay soldiers buried over 2,000 plus years ago to stand guard near the tomb of China’s first emperor, Qin Shi Huang, in the afterlife. 
 ---
 
-# Example Thematic Essay 2
+# Thematic Essay
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page. In the Amaranth documentation for website building, this type of essay is called a **Seedling.**
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
 ## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="48%"
-caption=" " 
+caption="Here is an image with the author pictured side by side with a terracotta soldier replica to show their lifesize comparison." 
 image-path="images/side-by-side-with-terracotta-1.jpg"
 %}[
 
-Here is an image with the author pictured side by side with a terracotta soldier replica to show their lifesize comparison. 
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
 
