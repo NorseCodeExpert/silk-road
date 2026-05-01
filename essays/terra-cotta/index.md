@@ -18,9 +18,9 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 {% include images/figure.html
 class="right"
 width="48%"
-caption="
-image-path="side-by-side-with-terracotta-1".jpg
-/terra-cotta/images/side-by-side-with-terracotta-1.jpg
+caption=" " 
+image-path="images/side-by-side-with-terracotta-1.jpg"
+%}[
 
 Here is an image with the author pictured side by side with a terracotta soldier replica to show their lifesize comparison. 
 
