@@ -20,7 +20,7 @@ Pit 2 contains chariots with four horses, drivers, and standardized harnesses. T
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a photo taken at the Emperor Qinshihuang's Mausoleum Site Museum. Source: Author Photo."
+caption="This is a photo taken at the Emperor Qinshihuang's Mausoleum Site Museum. Xian, China. Source: Author Photo."
 image-path="images/terracotta-chariot.jpg"
 %}
 

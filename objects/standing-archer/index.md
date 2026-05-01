@@ -19,7 +19,7 @@ Standing archers from the Terracotta Army are about 1.78 meters tall and are sho
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a photo taken at the Emperor Qinshihuang's Mausoleum Site Museum. Source: Author Photo."
+caption="This is a photo taken at the Emperor Qinshihuang's Mausoleum Site Museum. Xian, China. Source: Author Photo."
 image-path="images/standing-archer.jpg"
 %}
 

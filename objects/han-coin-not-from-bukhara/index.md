@@ -20,7 +20,7 @@ Kneeling archers crouch on one knee with the other leg raised, forming a stable 
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a photo taken at the Emperor Qinshihuang's Mausoleum Site Museum. Source: Author Photo."
+caption="This is a photo taken at the Emperor Qinshihuang's Mausoleum Site Museum. Xian, China. Source: Author Photo."
 image-path="images/kneeling-archer.jpg"
 %}
 
