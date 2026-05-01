@@ -13,20 +13,20 @@ tags:
 
 # The Standing Archer
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
-
+Standing archers from the Terracotta Army are about 1.78 meters tall and are shown in a firing stance, with one leg bent, feet set in a stable T-shape, and arms extended as if drawing a bow. They wear light clothing or only minimal armor, which emphasizes mobility and speed rather than heavy protection. Placed in Pit 1 and Pit 2, they form the front line of the army and represent Qin military strategy focused on long-range combat.
 
 ## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-violet.png"
+caption="This is a photo taken at the Xian Excavation Site. Source: Author Photo."
+image-path="images/standing-archer.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+What makes the standing archer especially important is the balance between individuality and standardization. Each figure has slight differences in facial features, hairstyle, and expression, yet the overall body structure was mass-produced using molds and modular parts. This reflects the Qin state’s larger obsession with order, control, and efficient production. The figures were not made as isolated artworks; they were part of a highly organized imperial system that could produce thousands of soldiers for the emperor’s tomb. 
+
+For a Silk Road project, the standing archer matters because the Terracotta Army reflects the political unification that made later trade networks possible. Qin Shi Huang united rival states, standardized roads, weights, measures, and military systems, and created a centralized empire. That kind of stability helped build the conditions later used by Silk Road caravans moving west through China. The standing archer, then, symbolizes the military foundation of imperial power that made large-scale exchange across Eurasia possible
+
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
 
