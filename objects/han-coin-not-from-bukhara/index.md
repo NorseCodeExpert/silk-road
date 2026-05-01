@@ -5,7 +5,7 @@ layout: base
 header-image: images/terra-cotta-thumbnail-5.jpg
 thumbnail: images/kneeling-archer.jpg
 summary: This image is of the Kneeling Archer found in Pit 1
-geo: [34.3416, 109.2744]
+geo: [34.3419, 109.2747]
 placename: Xian
 tags:
   - object

@@ -5,7 +5,7 @@ layout: base
 header-image: images/terra-cotta-thumbnail-5.jpg
 thumbnail: images/terracotta-officer.jpg
 summary: This image is of the Armored Officer found in Pit 2
-geo: [34.3416, 109.2744]
+geo: [34.3417, 109.2739]
 placename: Xian
 tags:
   - object
