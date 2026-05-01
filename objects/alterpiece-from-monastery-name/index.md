@@ -1,24 +1,22 @@
 ---
-author: student name
-title: "Altarpiece from a Monastery"
+author: Zacharie Frias
+title: "The Terracotta Chariot"
 layout: base
-header-image: images/han-coin-two-sides-violet.png
-thumbnail: images/han-coin-violet.png
-summary: This image is of the Han coin, not an altarpiece from a monastery.
-geo: [47.199, 102.834]
-placename: Karakorum
+header-image: images/terracotta-chariot.jpg
+thumbnail: images/terracotta-chariot.jpg
+summary: This image is of the Chariot with Warriors found in Pit 2
+geo: [34.3416, 109.2744]
+placename: Xian
 tags:
   - object
 ---
 
-# The Altarpiece from a Monastery
+# The Chariot with Warriors
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+Pit 2 contains chariots with four horses, drivers, and standardized harnesses. The chariot’s central, elevated position in the composition signals elite status and command-level power, above the rank-and-file infantry. We do not see the full chariots in the pits because their wooden bodies decayed over time, while only the bronze fittings, axles, and wheel-rim fragments remain.
 
 
-## Your First Section Heading
+## Brief Information
 {% include images/figure.html
 class="right"
 width="48%"
