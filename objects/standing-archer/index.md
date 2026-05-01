@@ -2,7 +2,7 @@
 author: Zacharie Frias
 title: "The Standing Archer"
 layout: base
-header-image: images/standing-archer.jpg
+header-image: images/terra-cotta-thumbnail-5.jpg
 thumbnail: images/standing-archer.jpg
 summary: This image is of the Standing Archer found in Pit 1
 geo: [34.3416, 109.2744]
