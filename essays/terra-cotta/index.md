@@ -66,5 +66,10 @@ Rather than viewing the Silk Road as a spontaneous or isolated development, it s
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+Ciarla, Roberto, ed. The Eternal Army: The Terracotta Soldiers of the First Chinese Emperor. Vercelli: White Star Publishers, 2003.
+
+Ledderose, Lothar. “A Magical Brush.” In Ten Thousand Things: Module and Mass Production in Chinese Art, 60–85. Princeton: Princeton University Press, 2000.
+
+Portal, Jane, ed. The First Emperor: China’s Terracotta Army. London: British Museum Press, 2007.
+
+Yuan, Zhongyi. China’s Terracotta Army and the First Emperor’s Mausoleum: The Art and Culture of Qin Shihuang’s Underground Palace. Beijing: Foreign Languages Press, 2011.
