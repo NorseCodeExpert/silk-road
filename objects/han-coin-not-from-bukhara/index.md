@@ -11,19 +11,17 @@ tags:
   - object
 ---
 
-# Coin that is not from Bukhara
+# The Kneeling Archer
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+Kneeling archers crouch on one knee with the other leg raised, forming a stable low-profile firing position that protects the body while maintaining accuracy. They are about 1.2 meters tall and are marked by detailed armor plates, carefully modeled shoes, and elaborately coiled hair on the left side of the head. Located in Pit 2, they sit in the center of an archery formation, surrounded by standing archers, recreating Qin’s alternating arrow-barrage tactics.
 
 
-## Your First Section Heading
+## Brief Information
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-blushwood.png"
+caption="This is a photo taken at the Emperor Qinshihuang's Mausoleum Site Museum. Source: Author Photo."
+image-path="images/kneeling-archer.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
