@@ -48,7 +48,7 @@ The army therefore symbolizes not only imperial ambition, but also the practical
 {% include images/figure.html
 class="left"
 width="48%"
-caption="Silk Road expansion: Courtesy of https://louis.pressbooks.pub/sandbox1/chapter/chapter-4-china-and-east-asia-to-the-ming-dynasty/?utm_source=chatgpt.com." 
+caption="Silk Road Expansion: Courtesy of https://louis.pressbooks.pub/sandbox1/chapter/chapter-4-china-and-east-asia-to-the-ming-dynasty." 
 image-path="images/silk-road-map.jpg"
 %}
 
@@ -63,29 +63,6 @@ The Terracotta Army ultimately represents more than a burial practice or a displ
 
 Rather than viewing the Silk Road as a spontaneous or isolated development, it should be understood as the result of deliberate state-building. The same empire that constructed thousands of soldiers beneath the earth also created the conditions necessary for sustained connection across Eurasia. The Terracotta Army stands as enduring evidence of that foundation
 
-
-## Block Quotes for Extended Quotations
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra.
-
-> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
-
-Block quotes work well when you want to quote an entire paragraph or passage, while pull quotes are better for short, punchy excerpts you want to highlight visually.
-
-
-## What You've Learned So Far
-If you can create this Seedling essay, you can:
-- Structure content with section headings
-- Add images with captions and source links
-- Include footnotes for citations
-- Use pull quotes for emphasis
-- Format block quotes for extended quotations
-- Control image sizes and placement
-
-**That's enough to create compelling digital scholarship.** The Sapling and Forest essays add more sophisticated features, but this foundation works for most student projects and many professional ones too.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula.
-
----
 
 ## Bibliography
 
