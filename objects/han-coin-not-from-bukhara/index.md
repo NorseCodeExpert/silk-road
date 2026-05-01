@@ -31,5 +31,5 @@ For the Silk Road, the kneeling archer is significant because it represents the 
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+-	Martin, Lucía, et al. "Marking Practices..." JAA 43 (2016): 1–22.
+-	Nickel, Lukas. "Building the Terracotta Army." Antiquity 91.358 (2017): 966–79.
