@@ -24,12 +24,23 @@ caption="This is a photo taken at the Emperor Qinshihuang's Mausoleum Site Museu
 image-path="images/terracotta-chariot.jpg"
 %}
 
-This object reflects the military hierarchy of Qin China. Chariots were not just vehicles; they were symbols of authority and battlefield coordination. The driver and horses together represent command power, and their placement in the formation suggests control over the soldiers around them. The surviving bronze fittings also reveal the technical skill of Qin artisans, who worked with precision and standardization. Even though the wooden body is gone, the remaining metal parts show how carefully the whole system was built.
+The chariot’s elevated and central position within formations signals elite status and command-level authority above the rank-and-file infantry. Rather than functioning as simple transport, chariots served as mobile command platforms from which officers could direct troops and coordinate movement. The presence of a driver, horses, and accompanying warriors suggests a tightly organized unit in which each role was clearly defined. This reflects a broader Qin emphasis on hierarchy and disciplined coordination, where authority flowed through structured ranks and was visibly reinforced through spatial arrangement.
 
-In relation to the Silk Road, the chariot matters because it reflects the infrastructure and military organization that supported imperial expansion. Qin unification created roads, transport systems, and administrative order that later helped connect China to the west. Chariots also represent elite mobility and the movement of power across large distances, which parallels the later movement of goods along Silk Road routes. The four-horse chariot therefore symbolizes both command and the larger logistical systems that made exchange across Eurasia possible.
+The surviving bronze components further highlight the technical sophistication of Qin craftsmanship. As Lukas Nickel notes, the Terracotta Army was produced through standardized and modular processes that allowed for consistency across large numbers of objects.^1 The precision of the chariot fittings—despite the loss of the wooden superstructure—demonstrates how carefully each element was manufactured to fit within a larger system. Even in fragmentary form, the chariot reveals a high level of planning, engineering, and quality control.
 
+The chariot also illustrates how mobility and command were integrated within Qin military strategy. Unlike infantry units, which held fixed positions, chariots enabled rapid movement across the battlefield, allowing commanders to respond to changing conditions and maintain oversight of multiple units. This capacity for coordinated movement reflects a military system designed not only for strength but also for adaptability and communication across space.
+
+In relation to the Silk Road, the chariot represents the logistical and administrative foundations that supported imperial expansion. Qin unification brought standardized roads, transportation networks, and centralized governance, all of which were essential for controlling territory and facilitating movement. As Lucía Martín and others argue, the organization visible in the Terracotta Army mirrors broader systems of coordination within the Qin state.^2 These same systems later enabled the safe passage of goods, people, and ideas across long distances.
+
+The four-horse chariot, therefore, symbolizes more than elite status. It embodies the integration of mobility, authority, and infrastructure that made large-scale connectivity possible across Eurasia.
+
+## Footnotes 
+
+- Lukas Nickel, “Building the Terracotta Army,” Antiquity 91, no. 358 (2017): 966–79.
+- Lucía Martín et al., “Marking Practices and the Making of the Qin Terracotta Army,” Journal of Anthropological Archaeology 43 (2016): 1–22.
 
 ## Bibliography
 
--	Martin, Lucía, et al. JAA 43 (2016): 1–22
--	Nickel, Lukas. Antiquity 91.358 (2017): 966–79.
+Martin, Lucía, et al. “Marking Practices and the Making of the Qin Terracotta Army.” Journal of Anthropological Archaeology 43 (2016): 1–22.
+
+Nickel, Lukas. “Building the Terracotta Army.” Antiquity 91, no. 358 (2017): 966–79.

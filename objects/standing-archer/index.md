@@ -40,5 +40,6 @@ The standing archer, therefore, symbolizes more than a single soldier. It repres
 
 ## Bibliography
 
--	Martin, Lucía, et al. "Marking Practices and the Making of the Qin Terracotta Army." Journal of Anthropological Archaeology 43 (2016): 1–22.
--	Nickel, Lukas. "Building the Terracotta Army." Antiquity 91.358 (2017): 966–79.
+Martin, Lucía, et al. “Marking Practices and the Making of the Qin Terracotta Army.” Journal of Anthropological Archaeology 43 (2016): 1–22.
+
+Nickel, Lukas. “Building the Terracotta Army.” Antiquity 91, no. 358 (2017): 966–79.
