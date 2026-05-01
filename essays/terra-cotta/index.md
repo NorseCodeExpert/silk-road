@@ -22,24 +22,17 @@ caption="Author pictured side by side with a terracotta soldier replica to show 
 image-path="images/side-by-side-with-terracotta-1.jpg"
 %}[
 
+The Terracotta Army of Qin Shi Huang is more than a famous archaeological discovery; it is a powerful symbol of the political and military foundations that later made Silk Road exchange possible. Built around 210 BCE near modern Xi'an, the army was designed to guard the First Emperor in the afterlife, but it also reveals the structure of the Qin state itself.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+The soldiers, horses, chariots, and officers are arranged in disciplined formations that reflect order, hierarchy, and control. These same qualities were essential for creating the stable empire that would eventually support the movement of goods, people, and ideas across Eurasia. Rather than viewing the Terracotta Army as an isolated funerary monument, it should be understood as a reflection of the systems that made long-distance exchange possible.
 
-[^randomthing]:Put your source information here.
+## Order, Standardization, and Imperial Power
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+What makes the Terracotta Army especially important for a Silk Road project is that it shows how imperial power worked on the ground. Qin Shi Huang unified rival states, standardized roads, weights, measures, and military systems, and built a centralized government capable of managing vast resources.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+The Terracotta Army reflects that system through its mass production, modular construction, and clear military organization. Each figure appears slightly different in expression and detail, yet all are part of a larger, highly structured whole. This balance between individuality and uniformity mirrors the Qin vision of empire: a society composed of many parts, all functioning within a single, controlled system.
 
-[^anotherrandomthing]:Put your next footnote source information here.
-
-
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+The scale of the army also demonstrates the state’s ability to mobilize labor and enforce coordination. Thousands of figures arranged in precise formation are not just artistic achievements—they are evidence of administrative power. This same capacity for organization would later support infrastructure, communication, and territorial expansion.
 
 
 ## Pull Quotes Add Emphasis
