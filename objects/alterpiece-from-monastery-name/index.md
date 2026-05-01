@@ -2,7 +2,7 @@
 author: Zacharie Frias
 title: "The Terracotta Chariot"
 layout: base
-header-image: images/terracotta-chariot.jpg
+header-image: images/terra-cotta-thumbnail-5.jpg
 thumbnail: images/terracotta-chariot.jpg
 summary: This image is of the Chariot with Warriors found in Pit 2
 geo: [34.3416, 109.2744]

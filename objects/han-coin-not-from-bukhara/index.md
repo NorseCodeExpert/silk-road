@@ -2,7 +2,7 @@
 author: Zacharie Frias
 title: "The Kneeling Archer"
 layout: base
-header-image: images/kneeling-archer.jpg
+header-image: images/terra-cotta-thumbnail-5.jpg
 thumbnail: images/kneeling-archer.jpg
 summary: This image is of the Kneeling Archer found in Pit 1
 geo: [34.3416, 109.2744]
