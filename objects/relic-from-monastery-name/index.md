@@ -20,7 +20,7 @@ Armored officers wear layered scale armor over long robes, with smooth-edged pla
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This photo is taken at the Emperor Qinshihuang’s Mausoleum Site Museum. Xian, China. Source: https://www.flickr.com/photos/islespunkfan/7982973524"
+caption="This photo is taken at the Emperor Qinshihuang’s Mausoleum Site Museum.Xian,China.Source: https://www.flickr.com/photos/islespunkfan/7982973524"
 image-path="images/terracotta-officer.jpg"
 %}
 
