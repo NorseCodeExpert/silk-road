@@ -5,12 +5,6 @@ layout: base
 
 # About This Project 
 
-{% include images/figure.html
-class="center"
-width="50%"
-caption=" Dramatic Image of Terracotta Warriors."
-image-path="images/dramatic-terracotta-warriors.jpg"
-%} 
 
 This digital exhibit explores the Terracotta Army of Qin Shi Huang as more than a funerary monument. Rather than focusing only on its scale or artistic achievement, this project examines how the army reflects the political, military, and administrative systems of the Qin state. These systems—defined by standardization, hierarchy, and coordination—formed the foundation for later developments that made long-distance exchange across Eurasia possible.
 
