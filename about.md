@@ -8,6 +8,7 @@ layout: base
 {% include images/figure.html
 class="center"
 width="50%"
+caption=" Dramatic Imagoe of Terracotta Warriors."
 image-path="images/dramatic-terracotta-warriors.jpg"
 %} 
 
